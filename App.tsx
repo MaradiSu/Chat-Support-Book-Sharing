@@ -27,4 +27,4 @@ Amplify.configure(config)
     );
   }
 }
-export default App;
+export default withAuthenticator(App);
