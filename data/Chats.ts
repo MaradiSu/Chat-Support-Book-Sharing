@@ -11,7 +11,7 @@ export default {
 	}],
 	messages: [{
 		id: 'm1',
-		content: 'How are you, Suresh!',
+		content: 'How are you, Anya!',
 		createdAt: '2020-10-10T12:48:00.000Z',
 		user: {
 			id: 'u1',

@@ -7,7 +7,7 @@ export default [{
   }, {
     id: 'u2',
     name: 'Anya',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://picsum.photos/seed/picsum/200/300',
   }],
   lastMessage: {
     id: 'm1',
@@ -23,7 +23,7 @@ export default [{
   }, {
     id: 'u3',
     name: 'intern1',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://picsum.photos/id/237/200/300',
   }],
   lastMessage: {
     id: 'm2',
@@ -39,7 +39,7 @@ export default [{
   }, {
     id: 'u4',
     name: 'intern2',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://picsum.photos/id/870/200/300?grayscale&blur=2',
   }],
   lastMessage: {
     id: 'm3',
@@ -55,7 +55,7 @@ export default [{
   }, {
     id: 'u5',
     name: 'intern3',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://picsum.photos/200/300/?blur',
   }],
   lastMessage: {
     id: 'm4',
@@ -71,7 +71,7 @@ export default [{
   }, {
     id: 'u6',
     name: 'Elon Musk',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://unsplash.com/photos/LNRyGwIJr5c',
   }],
   lastMessage: {
     id: 'm5',
@@ -87,7 +87,7 @@ export default [{
   }, {
     id: 'u7',
     name: 'Ramya',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://unsplash.com/photos/SSxIGsySh8o',
   }],
   lastMessage: {
     id: 'm6',
@@ -103,7 +103,7 @@ export default [{
   }, {
     id: 'u8',
     name: 'Chitra',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://unsplash.com/photos/6-jTZysYY_U',
   }],
   lastMessage: {
     id: 'm7',
@@ -119,7 +119,7 @@ export default [{
   }, {
     id: 'u9',
     name: 'Mitra',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://unsplash.com/photos/uAgLGG1WBd4',
   }],
   lastMessage: {
     id: 'm8',
@@ -135,7 +135,7 @@ export default [{
   }, {
     id: 'u10',
     name: 'Prems',
-    imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+    imageUri: 'https://unsplash.com/photos/_snqARKTgoc',
   }],
   lastMessage: {
     id: 'm9',
