@@ -1,7 +1,7 @@
 export default [{
   id: 'u1',
   name: 'Suresh',
-  imageUri: 'https://source.unsplash.com/random/200x300',
+  imageUri: require("../assets/images/splash.png"),
   status: "Hello there, how are you"
 }, {
   id: 'u2',
