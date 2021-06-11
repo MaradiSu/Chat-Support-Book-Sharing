@@ -7,7 +7,7 @@ export default {
 	}, {
 		id: 'u2',
 		name: 'Anya',
-		imageUri: 'https://source.unsplash.com/random/200x300',
+		imageUri: 'https://source.unsplash.com/random/200x300?sig=1',
 	}],
 	messages: [{
 		id: 'm1',
