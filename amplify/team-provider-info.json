@@ -10,6 +10,11 @@
       "StackName": "amplify-chatsupport-dev-22816",
       "StackId": "arn:aws:cloudformation:ap-south-1:223735272888:stack/amplify-chatsupport-dev-22816/c2bcfb70-caf7-11eb-8107-0a8f81ea6840",
       "AmplifyAppId": "deq7820rmrw98"
+    },
+    "categories": {
+      "auth": {
+        "chatsupport8dea058b": {}
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 import { NavigationContainer, DefaultTheme, DarkTheme } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import * as React from 'react';
-import {ColorSchemeName, View} from 'react-native';
+import {Alert, ColorSchemeName, View} from 'react-native';
 import {
   Octicons,
   MaterialCommunityIcons,
@@ -16,6 +16,7 @@ import MainTabNavigator from './MainTabNavigator';
 import LinkingConfiguration from './LinkingConfiguration';
 import Colors from "../constants/Colors";
 import ContactsScreen from "../screens/ContactsScreen";
+import { Auth } from 'aws-amplify';
 
 // If you are not familiar with React Navigation, we recommend going through the
 // "Fundamentals" guide: https://reactnavigation.org/docs/getting-started
@@ -60,7 +61,10 @@ function RootNavigator() {
               marginRight: 10,
             }}>
               <Octicons name="search" size={22} color={'white'} />
-              <MaterialCommunityIcons name="dots-vertical" size={22} color={'white'} />
+              <MaterialCommunityIcons name="logout" size={22} color={'white'} onPress={()=>{
+               Alert.alert("sign-out") 
+               Auth.signOut()
+              }} />
             </View>
           )
         }}
