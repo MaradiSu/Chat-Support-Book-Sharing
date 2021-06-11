@@ -7,7 +7,7 @@ export default {
 	}, {
 		id: 'u2',
 		name: 'Anya',
-		imageUri: 'https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50',
+		imageUri: 'https://source.unsplash.com/random/200x300',
 	}],
 	messages: [{
 		id: 'm1',
